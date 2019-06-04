@@ -2,8 +2,15 @@
 
 Machine Learning Course, Bogotá, Colombia  (&copy; Josh Bloom; June 2019)
 
+## Following along
+
+To *execute* the notebooks with all the dependencies installed, we'll use MyBinder. Here's the stable Binder link:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/profjsb/ml_course/c209b1b23062f680520b29060f605a52b0d5f087)
+
+Bleeding edge (might take a long time to build an image):
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/profjsb/ml_course/master)
 
+If those don't work you can follow along using the static notebooks (ie., no kernel environment) at [nbviewer site](https://nbviewer.jupyter.org/github/profjsb/ml_course/tree/master/Lectures/).
 
 ## Format 
 
@@ -61,9 +68,11 @@ Machine Learning Course, Bogotá, Colombia  (&copy; Josh Bloom; June 2019)
 * Bias, Reproducibility, GDPR, and Ethics in ML
 * What we didn't cover: Reinforcement Learning, etc.
 
-## Frameworks:
+## Major Frameworks:
   * Python 3.6 (or 3.7)
   * numpy, scipy, seaborn
   * sklearn
   * keras/tensorflow
+  * spacy
+  * pymc3
  
